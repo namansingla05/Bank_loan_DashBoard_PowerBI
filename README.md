@@ -26,7 +26,7 @@ Key KPIs include:
 ---
 
 ## Data Validation & Testing
-All figures and summaries shown in the dashboards have been **independently verified** using SQL queries.
+All Figures and summaries shown in the dashboards have been **independently verified** using SQL queries.
 
 This validation ensures the Power BI visualizations are:
 - **Accurate**
